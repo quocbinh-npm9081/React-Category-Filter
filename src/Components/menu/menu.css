@@ -1,0 +1,23 @@
+.items {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 3rem;
+}
+
+.item-con {
+    width: 100%;
+    padding: 1.2rem 1.2rem;
+    background-color: var(--color-secondary);
+}
+
+.img-container {
+    overflow: hidden;
+}
+
+.img-container>img {
+    transition: all .3s ease;
+}
+
+.img-container>img:hover {
+    transform: scale(1.1);
+}

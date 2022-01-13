@@ -1,0 +1,18 @@
+.btn {
+    padding: 1rem;
+    color: #fff;
+    font-size: 1.4rem;
+}
+
+.btn span {
+    color: #fff;
+    transition: all .2s ease;
+}
+
+.btn.active span {
+    color: var(--color-primary);
+}
+
+.btn:hover span {
+    color: var(--color-primary);
+}
