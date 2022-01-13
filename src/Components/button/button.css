@@ -16,3 +16,11 @@
 .btn:hover span {
     color: var(--color-primary);
 }
+
+@media only screen and (max-width: 961px) {
+    .btn {
+        padding: .2rem .5rem;
+        color: #fff;
+        font-size: .7rem;
+    }
+}
