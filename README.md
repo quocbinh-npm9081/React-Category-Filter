@@ -1,3 +1,6 @@
+# DEMO
+https://quocbinh-npm9081.github.io/React-Category-Filter/
+
 ## DESKTOP
 
 <img width="943" alt="pic1" src="https://user-images.githubusercontent.com/68917523/149351284-0ab882a6-152a-4747-bb6f-b4cebb7f46dd.png">
